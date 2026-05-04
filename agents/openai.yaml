@@ -1,0 +1,4 @@
+interface:
+  display_name: "Confirmo Pet Converter"
+  short_description: "Convert sprites.confirmo.love packs into Codex desktop pets"
+  default_prompt: "Convert this downloaded sprites.confirmo.love pet package into a Codex desktop pet."
